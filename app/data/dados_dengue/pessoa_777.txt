@@ -1,0 +1,10 @@
+Pessoa 777
+Genero: Male
+Idade: 62
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Shahbagh
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Tem dengue

@@ -1,0 +1,10 @@
+Pessoa 223
+Genero: Male
+Idade: 57
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Biman Bandar
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

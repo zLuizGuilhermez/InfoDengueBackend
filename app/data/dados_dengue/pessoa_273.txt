@@ -1,0 +1,10 @@
+Pessoa 273
+Genero: Male
+Idade: 36
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Khilkhet
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

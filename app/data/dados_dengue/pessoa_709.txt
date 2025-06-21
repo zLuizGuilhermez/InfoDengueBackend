@@ -1,0 +1,10 @@
+Pessoa 709
+Genero: Male
+Idade: 20
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Pallabi
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

@@ -1,0 +1,10 @@
+Pessoa 125
+Genero: Female
+Idade: 56
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Kadamtali
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

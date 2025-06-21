@@ -1,0 +1,10 @@
+Pessoa 561
+Genero: Female
+Idade: 19
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Sabujbagh
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

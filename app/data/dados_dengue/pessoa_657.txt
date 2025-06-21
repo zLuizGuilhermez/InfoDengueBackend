@@ -1,0 +1,10 @@
+Pessoa 657
+Genero: Female
+Idade: 51
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Cantonment
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

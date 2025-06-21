@@ -1,0 +1,10 @@
+Pessoa 786
+Genero: Female
+Idade: 45
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Khilgaon
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

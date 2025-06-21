@@ -1,0 +1,10 @@
+Pessoa 446
+Genero: Female
+Idade: 27
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Badda
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

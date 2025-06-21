@@ -1,0 +1,10 @@
+Pessoa 885
+Genero: Male
+Idade: 39
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Demra
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Tem dengue

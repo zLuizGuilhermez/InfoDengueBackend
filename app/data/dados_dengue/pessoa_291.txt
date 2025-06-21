@@ -1,0 +1,10 @@
+Pessoa 291
+Genero: Female
+Idade: 62
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Motijheel
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

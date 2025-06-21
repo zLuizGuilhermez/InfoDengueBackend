@@ -1,0 +1,10 @@
+Pessoa 150
+Genero: Male
+Idade: 17
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Khilkhet
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

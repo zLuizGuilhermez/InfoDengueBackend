@@ -1,0 +1,10 @@
+Pessoa 69
+Genero: Female
+Idade: 11
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Kafrul
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

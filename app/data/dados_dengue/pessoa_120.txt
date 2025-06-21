@@ -1,0 +1,10 @@
+Pessoa 120
+Genero: Male
+Idade: 31
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Adabor
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

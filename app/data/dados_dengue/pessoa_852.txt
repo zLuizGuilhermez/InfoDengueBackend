@@ -1,0 +1,10 @@
+Pessoa 852
+Genero: Female
+Idade: 28
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Mirpur
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

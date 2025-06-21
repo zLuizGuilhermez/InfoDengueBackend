@@ -1,0 +1,10 @@
+Pessoa 314
+Genero: Male
+Idade: 15
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Banasree
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

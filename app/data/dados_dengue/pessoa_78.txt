@@ -1,0 +1,10 @@
+Pessoa 78
+Genero: Male
+Idade: 21
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Dhanmondi
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

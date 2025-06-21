@@ -1,0 +1,10 @@
+Pessoa 82
+Genero: Male
+Idade: 59
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Shahbagh
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Tem dengue

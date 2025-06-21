@@ -1,0 +1,10 @@
+Pessoa 819
+Genero: Female
+Idade: 37
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Shahbagh
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

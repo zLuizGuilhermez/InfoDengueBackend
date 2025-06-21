@@ -1,0 +1,10 @@
+Pessoa 838
+Genero: Female
+Idade: 17
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Mohammadpur
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

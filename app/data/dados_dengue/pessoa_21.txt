@@ -1,0 +1,10 @@
+Pessoa 21
+Genero: Female
+Idade: 31
+NS1: 0
+IgG: 1
+IgM: 0
+Área: Jatrabari
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

@@ -1,0 +1,10 @@
+Pessoa 345
+Genero: Female
+Idade: 40
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Gulshan
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

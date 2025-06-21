@@ -1,0 +1,10 @@
+Pessoa 38
+Genero: Female
+Idade: 13
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Sutrapur
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 96
+Genero: Female
+Idade: 26
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Sabujbagh
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 674
+Genero: Female
+Idade: 37
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Mohammadpur
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

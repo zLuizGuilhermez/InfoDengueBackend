@@ -1,0 +1,10 @@
+Pessoa 86
+Genero: Male
+Idade: 38
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Biman Bandar
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 205
+Genero: Female
+Idade: 59
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kalabagan
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

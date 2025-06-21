@@ -1,0 +1,10 @@
+Pessoa 975
+Genero: Female
+Idade: 40
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Tejgaon
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

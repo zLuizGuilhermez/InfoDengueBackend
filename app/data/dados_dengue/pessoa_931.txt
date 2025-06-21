@@ -1,0 +1,10 @@
+Pessoa 931
+Genero: Male
+Idade: 40
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Kamrangirchar
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 667
+Genero: Male
+Idade: 49
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Chawkbazar
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

@@ -1,0 +1,10 @@
+Pessoa 521
+Genero: Male
+Idade: 22
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Sher-e-Bangla Nagar
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

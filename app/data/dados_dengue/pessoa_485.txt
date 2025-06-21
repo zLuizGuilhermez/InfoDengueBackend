@@ -1,0 +1,10 @@
+Pessoa 485
+Genero: Female
+Idade: 55
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Pallabi
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 363
+Genero: Female
+Idade: 15
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Pallabi
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

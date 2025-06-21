@@ -1,0 +1,10 @@
+Pessoa 525
+Genero: Male
+Idade: 64
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Jatrabari
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

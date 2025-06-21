@@ -1,0 +1,10 @@
+Pessoa 492
+Genero: Female
+Idade: 17
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Mirpur
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

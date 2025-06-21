@@ -1,0 +1,10 @@
+Pessoa 737
+Genero: Female
+Idade: 39
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Sabujbagh
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

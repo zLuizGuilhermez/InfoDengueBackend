@@ -1,0 +1,10 @@
+Pessoa 168
+Genero: Male
+Idade: 15
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Bosila
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

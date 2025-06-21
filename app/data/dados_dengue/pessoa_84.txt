@@ -1,0 +1,10 @@
+Pessoa 84
+Genero: Female
+Idade: 12
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Tejgaon
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Tem dengue

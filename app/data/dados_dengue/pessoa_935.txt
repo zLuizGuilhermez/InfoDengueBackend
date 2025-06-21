@@ -1,0 +1,10 @@
+Pessoa 935
+Genero: Female
+Idade: 65
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Mohammadpur
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

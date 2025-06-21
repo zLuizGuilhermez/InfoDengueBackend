@@ -1,0 +1,10 @@
+Pessoa 137
+Genero: Male
+Idade: 55
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Adabor
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

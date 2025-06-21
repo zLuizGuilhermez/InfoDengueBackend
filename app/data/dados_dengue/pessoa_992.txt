@@ -1,0 +1,10 @@
+Pessoa 992
+Genero: Female
+Idade: 33
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Hazaribagh
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

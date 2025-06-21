@@ -1,0 +1,10 @@
+Pessoa 180
+Genero: Male
+Idade: 38
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Kadamtali
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

@@ -1,0 +1,10 @@
+Pessoa 805
+Genero: Male
+Idade: 39
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Bosila
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

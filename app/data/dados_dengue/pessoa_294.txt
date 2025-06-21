@@ -1,0 +1,10 @@
+Pessoa 294
+Genero: Male
+Idade: 22
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Gendaria
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

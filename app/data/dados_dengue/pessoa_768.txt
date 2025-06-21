@@ -1,0 +1,10 @@
+Pessoa 768
+Genero: Male
+Idade: 10
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Shahbagh
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

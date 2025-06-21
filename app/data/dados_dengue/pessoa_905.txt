@@ -1,0 +1,10 @@
+Pessoa 905
+Genero: Female
+Idade: 11
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Jatrabari
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

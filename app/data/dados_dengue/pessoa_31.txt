@@ -1,0 +1,10 @@
+Pessoa 31
+Genero: Female
+Idade: 35
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Ramna
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

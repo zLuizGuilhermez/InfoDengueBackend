@@ -1,0 +1,10 @@
+Pessoa 697
+Genero: Female
+Idade: 14
+NS1: 0
+IgG: 0
+IgM: 0
+Área: New Market
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

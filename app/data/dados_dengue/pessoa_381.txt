@@ -1,0 +1,10 @@
+Pessoa 381
+Genero: Female
+Idade: 63
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Motijheel
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

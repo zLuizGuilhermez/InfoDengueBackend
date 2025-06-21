@@ -1,0 +1,10 @@
+Pessoa 365
+Genero: Male
+Idade: 64
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Kamrangirchar
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

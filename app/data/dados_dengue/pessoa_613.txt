@@ -1,0 +1,10 @@
+Pessoa 613
+Genero: Female
+Idade: 63
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Lalbagh
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

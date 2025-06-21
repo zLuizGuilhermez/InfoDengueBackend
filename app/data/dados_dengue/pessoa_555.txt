@@ -1,0 +1,10 @@
+Pessoa 555
+Genero: Female
+Idade: 34
+NS1: 1
+IgG: 1
+IgM: 0
+Área: New Market
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

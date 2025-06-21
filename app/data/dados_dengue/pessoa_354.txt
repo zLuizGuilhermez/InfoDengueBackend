@@ -1,0 +1,10 @@
+Pessoa 354
+Genero: Female
+Idade: 57
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Biman Bandar
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

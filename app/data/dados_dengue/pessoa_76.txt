@@ -1,0 +1,10 @@
+Pessoa 76
+Genero: Male
+Idade: 61
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Ramna
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

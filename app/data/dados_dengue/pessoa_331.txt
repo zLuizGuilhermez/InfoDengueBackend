@@ -1,0 +1,10 @@
+Pessoa 331
+Genero: Female
+Idade: 22
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Kafrul
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

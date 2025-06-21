@@ -1,0 +1,10 @@
+Pessoa 806
+Genero: Female
+Idade: 11
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kadamtali
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

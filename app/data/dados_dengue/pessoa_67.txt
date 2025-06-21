@@ -1,0 +1,10 @@
+Pessoa 67
+Genero: Female
+Idade: 28
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Bangshal
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Tem dengue

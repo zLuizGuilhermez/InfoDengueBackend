@@ -1,0 +1,10 @@
+Pessoa 649
+Genero: Female
+Idade: 32
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Paltan
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

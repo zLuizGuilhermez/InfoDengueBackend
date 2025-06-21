@@ -1,0 +1,10 @@
+Pessoa 343
+Genero: Female
+Idade: 44
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Keraniganj
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

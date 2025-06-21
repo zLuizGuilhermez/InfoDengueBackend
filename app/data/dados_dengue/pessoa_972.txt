@@ -1,0 +1,10 @@
+Pessoa 972
+Genero: Male
+Idade: 39
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Gulshan
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

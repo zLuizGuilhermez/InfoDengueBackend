@@ -1,0 +1,10 @@
+Pessoa 165
+Genero: Female
+Idade: 9
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Bosila
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

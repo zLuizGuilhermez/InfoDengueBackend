@@ -1,0 +1,10 @@
+Pessoa 541
+Genero: Male
+Idade: 48
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Cantonment
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Tem dengue

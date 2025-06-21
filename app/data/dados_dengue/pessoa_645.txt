@@ -1,0 +1,10 @@
+Pessoa 645
+Genero: Male
+Idade: 28
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Rampura
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

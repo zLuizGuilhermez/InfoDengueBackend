@@ -1,0 +1,10 @@
+Pessoa 41
+Genero: Female
+Idade: 54
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kalabagan
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 688
+Genero: Female
+Idade: 35
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Biman Bandar
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

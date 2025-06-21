@@ -1,0 +1,10 @@
+Pessoa 285
+Genero: Female
+Idade: 20
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Badda
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

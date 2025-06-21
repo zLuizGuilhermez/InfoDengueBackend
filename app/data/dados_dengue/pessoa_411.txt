@@ -1,0 +1,10 @@
+Pessoa 411
+Genero: Male
+Idade: 55
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Shahbagh
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

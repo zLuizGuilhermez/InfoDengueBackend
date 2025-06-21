@@ -1,0 +1,10 @@
+Pessoa 530
+Genero: Male
+Idade: 48
+NS1: 0
+IgG: 1
+IgM: 0
+Área: Mohammadpur
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Tem dengue

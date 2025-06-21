@@ -1,0 +1,10 @@
+Pessoa 926
+Genero: Male
+Idade: 55
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Sutrapur
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

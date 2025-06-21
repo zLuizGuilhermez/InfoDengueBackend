@@ -1,0 +1,10 @@
+Pessoa 902
+Genero: Female
+Idade: 35
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Adabor
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

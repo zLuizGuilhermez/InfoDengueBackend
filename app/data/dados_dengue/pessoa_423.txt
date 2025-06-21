@@ -1,0 +1,10 @@
+Pessoa 423
+Genero: Female
+Idade: 21
+NS1: 0
+IgG: 0
+IgM: 1
+Área: New Market
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

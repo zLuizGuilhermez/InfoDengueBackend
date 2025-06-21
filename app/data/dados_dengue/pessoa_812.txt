@@ -1,0 +1,10 @@
+Pessoa 812
+Genero: Female
+Idade: 49
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Shyampur
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 567
+Genero: Female
+Idade: 45
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Paltan
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

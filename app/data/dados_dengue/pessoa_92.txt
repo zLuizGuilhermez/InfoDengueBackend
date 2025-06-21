@@ -1,0 +1,10 @@
+Pessoa 92
+Genero: Male
+Idade: 64
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Mirpur
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

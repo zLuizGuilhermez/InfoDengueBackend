@@ -1,0 +1,10 @@
+Pessoa 248
+Genero: Female
+Idade: 32
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Khilkhet
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

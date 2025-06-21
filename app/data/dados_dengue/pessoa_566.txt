@@ -1,0 +1,10 @@
+Pessoa 566
+Genero: Male
+Idade: 23
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Paltan
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

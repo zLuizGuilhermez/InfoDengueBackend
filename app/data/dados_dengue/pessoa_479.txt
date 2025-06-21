@@ -1,0 +1,10 @@
+Pessoa 479
+Genero: Male
+Idade: 41
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Pallabi
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

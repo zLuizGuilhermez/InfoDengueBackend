@@ -1,0 +1,10 @@
+Pessoa 68
+Genero: Female
+Idade: 38
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Kadamtali
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

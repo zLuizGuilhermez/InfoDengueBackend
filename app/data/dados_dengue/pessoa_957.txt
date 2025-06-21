@@ -1,0 +1,10 @@
+Pessoa 957
+Genero: Female
+Idade: 8
+NS1: 0
+IgG: 1
+IgM: 0
+Área: Cantonment
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Tem dengue

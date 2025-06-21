@@ -1,0 +1,10 @@
+Pessoa 591
+Genero: Male
+Idade: 30
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Tejgaon
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

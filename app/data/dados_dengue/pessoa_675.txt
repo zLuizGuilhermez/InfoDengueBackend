@@ -1,0 +1,10 @@
+Pessoa 675
+Genero: Male
+Idade: 47
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Adabor
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Tem dengue

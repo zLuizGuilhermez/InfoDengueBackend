@@ -1,0 +1,10 @@
+Pessoa 467
+Genero: Male
+Idade: 39
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Gendaria
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

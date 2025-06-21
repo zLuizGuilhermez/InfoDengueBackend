@@ -1,0 +1,10 @@
+Pessoa 385
+Genero: Female
+Idade: 17
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Kadamtali
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Tem dengue

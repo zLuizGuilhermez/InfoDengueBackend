@@ -1,0 +1,10 @@
+Pessoa 337
+Genero: Female
+Idade: 21
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Mirpur
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

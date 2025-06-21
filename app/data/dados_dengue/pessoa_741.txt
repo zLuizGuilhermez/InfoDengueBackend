@@ -1,0 +1,10 @@
+Pessoa 741
+Genero: Female
+Idade: 32
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Shahbagh
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

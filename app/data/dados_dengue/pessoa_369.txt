@@ -1,0 +1,10 @@
+Pessoa 369
+Genero: Female
+Idade: 51
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Demra
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

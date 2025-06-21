@@ -1,0 +1,10 @@
+Pessoa 487
+Genero: Male
+Idade: 13
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Gendaria
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

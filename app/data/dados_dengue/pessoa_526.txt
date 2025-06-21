@@ -1,0 +1,10 @@
+Pessoa 526
+Genero: Female
+Idade: 9
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Lalbagh
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

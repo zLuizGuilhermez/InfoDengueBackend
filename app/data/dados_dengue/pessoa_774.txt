@@ -1,0 +1,10 @@
+Pessoa 774
+Genero: Male
+Idade: 14
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Sabujbagh
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

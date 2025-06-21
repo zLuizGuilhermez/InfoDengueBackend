@@ -1,0 +1,10 @@
+Pessoa 57
+Genero: Male
+Idade: 28
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Gendaria
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

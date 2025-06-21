@@ -1,0 +1,10 @@
+Pessoa 265
+Genero: Female
+Idade: 11
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Mirpur
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

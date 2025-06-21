@@ -1,0 +1,10 @@
+Pessoa 572
+Genero: Female
+Idade: 26
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Sabujbagh
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

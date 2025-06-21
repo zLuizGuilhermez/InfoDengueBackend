@@ -1,0 +1,10 @@
+Pessoa 971
+Genero: Female
+Idade: 40
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Paltan
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

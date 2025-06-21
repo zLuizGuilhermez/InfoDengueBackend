@@ -1,0 +1,10 @@
+Pessoa 353
+Genero: Male
+Idade: 17
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Motijheel
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

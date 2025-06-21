@@ -1,0 +1,10 @@
+Pessoa 439
+Genero: Male
+Idade: 31
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Badda
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

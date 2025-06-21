@@ -1,0 +1,10 @@
+Pessoa 471
+Genero: Male
+Idade: 11
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kamrangirchar
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

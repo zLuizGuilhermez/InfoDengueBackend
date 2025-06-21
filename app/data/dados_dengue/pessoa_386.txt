@@ -1,0 +1,10 @@
+Pessoa 386
+Genero: Female
+Idade: 50
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Lalbagh
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

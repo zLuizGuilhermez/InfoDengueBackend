@@ -1,0 +1,10 @@
+Pessoa 1
+Genero: Female
+Idade: 45
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Mirpur
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 47
+Genero: Male
+Idade: 62
+NS1: 0
+IgG: 1
+IgM: 0
+Área: Sabujbagh
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

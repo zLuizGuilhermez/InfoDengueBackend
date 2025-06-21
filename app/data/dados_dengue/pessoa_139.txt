@@ -1,0 +1,10 @@
+Pessoa 139
+Genero: Male
+Idade: 32
+NS1: 0
+IgG: 1
+IgM: 0
+Área: Khilgaon
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

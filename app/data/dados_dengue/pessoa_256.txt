@@ -1,0 +1,10 @@
+Pessoa 256
+Genero: Male
+Idade: 39
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Shahbagh
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Tem dengue

@@ -1,0 +1,10 @@
+Pessoa 929
+Genero: Female
+Idade: 42
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Banasree
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

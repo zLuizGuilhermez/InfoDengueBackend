@@ -1,0 +1,10 @@
+Pessoa 477
+Genero: Female
+Idade: 53
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Sutrapur
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

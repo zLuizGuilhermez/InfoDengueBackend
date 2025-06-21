@@ -1,0 +1,10 @@
+Pessoa 457
+Genero: Female
+Idade: 17
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Sher-e-Bangla Nagar
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

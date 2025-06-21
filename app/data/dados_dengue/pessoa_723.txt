@@ -1,0 +1,10 @@
+Pessoa 723
+Genero: Female
+Idade: 28
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kafrul
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

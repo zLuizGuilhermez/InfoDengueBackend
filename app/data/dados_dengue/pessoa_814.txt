@@ -1,0 +1,10 @@
+Pessoa 814
+Genero: Male
+Idade: 50
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Jatrabari
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

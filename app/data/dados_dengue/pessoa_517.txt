@@ -1,0 +1,10 @@
+Pessoa 517
+Genero: Female
+Idade: 23
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Gulshan
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

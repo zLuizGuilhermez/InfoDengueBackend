@@ -1,0 +1,10 @@
+Pessoa 624
+Genero: Female
+Idade: 27
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Gendaria
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

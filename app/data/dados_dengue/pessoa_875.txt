@@ -1,0 +1,10 @@
+Pessoa 875
+Genero: Female
+Idade: 8
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Rampura
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

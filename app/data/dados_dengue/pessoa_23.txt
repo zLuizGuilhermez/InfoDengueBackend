@@ -1,0 +1,10 @@
+Pessoa 23
+Genero: Female
+Idade: 37
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kamrangirchar
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

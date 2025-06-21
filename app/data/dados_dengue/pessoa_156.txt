@@ -1,0 +1,10 @@
+Pessoa 156
+Genero: Male
+Idade: 16
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Banasree
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

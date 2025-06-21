@@ -1,0 +1,10 @@
+Pessoa 542
+Genero: Female
+Idade: 30
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Mirpur
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

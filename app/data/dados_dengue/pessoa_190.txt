@@ -1,0 +1,10 @@
+Pessoa 190
+Genero: Male
+Idade: 15
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Pallabi
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

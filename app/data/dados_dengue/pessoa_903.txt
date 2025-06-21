@@ -1,0 +1,10 @@
+Pessoa 903
+Genero: Male
+Idade: 36
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Chawkbazar
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

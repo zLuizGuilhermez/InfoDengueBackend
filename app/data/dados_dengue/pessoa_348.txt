@@ -1,0 +1,10 @@
+Pessoa 348
+Genero: Female
+Idade: 40
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Gendaria
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

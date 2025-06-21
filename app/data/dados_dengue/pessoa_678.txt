@@ -1,0 +1,10 @@
+Pessoa 678
+Genero: Male
+Idade: 33
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Bosila
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

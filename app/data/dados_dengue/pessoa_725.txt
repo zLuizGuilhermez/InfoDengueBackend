@@ -1,0 +1,10 @@
+Pessoa 725
+Genero: Male
+Idade: 8
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Bosila
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

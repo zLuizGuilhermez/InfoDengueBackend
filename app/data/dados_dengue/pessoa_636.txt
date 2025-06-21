@@ -1,0 +1,10 @@
+Pessoa 636
+Genero: Female
+Idade: 47
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Bangshal
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

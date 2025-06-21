@@ -1,0 +1,10 @@
+Pessoa 532
+Genero: Female
+Idade: 36
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Banasree
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

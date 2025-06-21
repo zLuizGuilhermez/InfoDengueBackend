@@ -1,0 +1,10 @@
+Pessoa 545
+Genero: Female
+Idade: 28
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Kamrangirchar
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

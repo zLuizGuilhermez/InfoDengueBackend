@@ -1,0 +1,10 @@
+Pessoa 918
+Genero: Male
+Idade: 33
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Hazaribagh
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

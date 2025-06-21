@@ -1,0 +1,10 @@
+Pessoa 127
+Genero: Female
+Idade: 22
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Sutrapur
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

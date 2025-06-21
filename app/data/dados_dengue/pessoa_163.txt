@@ -1,0 +1,10 @@
+Pessoa 163
+Genero: Female
+Idade: 10
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Banasree
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

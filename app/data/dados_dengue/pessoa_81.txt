@@ -1,0 +1,10 @@
+Pessoa 81
+Genero: Female
+Idade: 62
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Bosila
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

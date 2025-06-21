@@ -1,0 +1,10 @@
+Pessoa 523
+Genero: Female
+Idade: 13
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Khilgaon
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

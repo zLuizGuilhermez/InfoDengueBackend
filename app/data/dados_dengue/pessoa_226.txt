@@ -1,0 +1,10 @@
+Pessoa 226
+Genero: Male
+Idade: 57
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Banasree
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Não tem dengue

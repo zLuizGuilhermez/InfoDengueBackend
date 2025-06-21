@@ -1,0 +1,10 @@
+Pessoa 121
+Genero: Male
+Idade: 57
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Bosila
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

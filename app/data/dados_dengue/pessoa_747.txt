@@ -1,0 +1,10 @@
+Pessoa 747
+Genero: Male
+Idade: 46
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Mohammadpur
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

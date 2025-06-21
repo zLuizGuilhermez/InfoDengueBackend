@@ -1,0 +1,10 @@
+Pessoa 538
+Genero: Female
+Idade: 55
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Badda
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

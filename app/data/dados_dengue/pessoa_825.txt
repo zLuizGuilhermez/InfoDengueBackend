@@ -1,0 +1,10 @@
+Pessoa 825
+Genero: Female
+Idade: 13
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Demra
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

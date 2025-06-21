@@ -1,0 +1,10 @@
+Pessoa 637
+Genero: Female
+Idade: 20
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Biman Bandar
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

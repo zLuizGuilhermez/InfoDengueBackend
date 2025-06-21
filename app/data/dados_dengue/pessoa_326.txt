@@ -1,0 +1,10 @@
+Pessoa 326
+Genero: Male
+Idade: 39
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Motijheel
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

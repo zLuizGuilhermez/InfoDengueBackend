@@ -1,0 +1,10 @@
+Pessoa 956
+Genero: Female
+Idade: 50
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Rampura
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

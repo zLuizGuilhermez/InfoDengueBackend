@@ -1,0 +1,10 @@
+Pessoa 473
+Genero: Male
+Idade: 45
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Shyampur
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

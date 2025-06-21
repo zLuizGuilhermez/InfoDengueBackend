@@ -1,0 +1,10 @@
+Pessoa 358
+Genero: Male
+Idade: 44
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Demra
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Tem dengue

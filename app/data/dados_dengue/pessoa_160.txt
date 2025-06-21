@@ -1,0 +1,10 @@
+Pessoa 160
+Genero: Male
+Idade: 42
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Gulshan
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

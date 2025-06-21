@@ -1,0 +1,10 @@
+Pessoa 507
+Genero: Female
+Idade: 19
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Gulshan
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue

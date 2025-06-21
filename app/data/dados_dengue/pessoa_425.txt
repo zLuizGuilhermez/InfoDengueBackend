@@ -1,0 +1,10 @@
+Pessoa 425
+Genero: Male
+Idade: 23
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Kadamtali
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Tem dengue

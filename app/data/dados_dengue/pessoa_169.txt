@@ -1,0 +1,10 @@
+Pessoa 169
+Genero: Male
+Idade: 30
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Paltan
+Tipo de área: Undeveloped
+Tipo de casa: Other
+Outcome: Não tem dengue

@@ -1,0 +1,10 @@
+Pessoa 450
+Genero: Female
+Idade: 31
+NS1: 1
+IgG: 1
+IgM: 1
+Área: Cantonment
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

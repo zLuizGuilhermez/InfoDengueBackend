@@ -1,0 +1,10 @@
+Pessoa 772
+Genero: Female
+Idade: 36
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Bangshal
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Tem dengue

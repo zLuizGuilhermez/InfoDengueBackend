@@ -1,0 +1,10 @@
+Pessoa 994
+Genero: Female
+Idade: 15
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Kadamtali
+Tipo de área: Developed
+Tipo de casa: Other
+Outcome: Não tem dengue

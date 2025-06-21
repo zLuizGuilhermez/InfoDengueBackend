@@ -1,0 +1,10 @@
+Pessoa 65
+Genero: Female
+Idade: 59
+NS1: 0
+IgG: 0
+IgM: 1
+Área: Khilkhet
+Tipo de área: Undeveloped
+Tipo de casa: Building
+Outcome: Não tem dengue

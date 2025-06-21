@@ -1,0 +1,10 @@
+Pessoa 80
+Genero: Female
+Idade: 24
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Bosila
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

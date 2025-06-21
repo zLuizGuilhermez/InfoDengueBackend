@@ -1,0 +1,10 @@
+Pessoa 928
+Genero: Male
+Idade: 37
+NS1: 0
+IgG: 0
+IgM: 0
+Área: Adabor
+Tipo de área: Developed
+Tipo de casa: Tinshed
+Outcome: Não tem dengue

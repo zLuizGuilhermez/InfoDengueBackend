@@ -1,0 +1,10 @@
+Pessoa 586
+Genero: Female
+Idade: 53
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Jatrabari
+Tipo de área: Developed
+Tipo de casa: Building
+Outcome: Tem dengue

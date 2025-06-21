@@ -1,0 +1,10 @@
+Pessoa 429
+Genero: Female
+Idade: 43
+NS1: 1
+IgG: 1
+IgM: 0
+Área: Hazaribagh
+Tipo de área: Undeveloped
+Tipo de casa: Tinshed
+Outcome: Tem dengue
