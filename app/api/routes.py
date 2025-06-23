@@ -39,9 +39,6 @@ def obter_mapa_upas(
     lat: float = Query(None, description="Latitude (se já conhecida)"),
     lon: float = Query(None, description="Longitude (se já conhecida)"),
 ):
-    """
-    Retorna um mapa HTML interativo mostrando todas as UPAs do DF e a localização do usuário (se fornecida)
-    """
     try:
         mapa_html = gerar_mapa_upas_e_endereco(endereco, lat, lon)
         return HTMLResponse(content=mapa_html, status_code=200)
@@ -54,9 +51,6 @@ def salvar_mapa_upas(
     lat: float = Query(None, description="Latitude (se já conhecida)"),
     lon: float = Query(None, description="Longitude (se já conhecida)"),
 ):
-    """
-    Gera um arquivo HTML com o mapa das UPAs e retorna para download
-    """
     try:
         arquivo_mapa = salvar_mapa_arquivo(endereco, lat, lon, "mapa_upas_temp.html")
         return FileResponse(
@@ -73,21 +67,15 @@ def encontrar_proxima(
     lat: float = Query(None, description="Latitude"),
     lon: float = Query(None, description="Longitude"),
 ):
-    """
-    Encontra a UPA mais próxima com base no endereço ou coordenadas fornecidas
-    """
-    # Se recebemos o endereço, mas não as coordenadas, precisamos geocodificar
     if endereco and not (lat is not None and lon is not None):
         coordenadas = transformar_endereco_para_cord(endereco)
         if not coordenadas:
             raise HTTPException(status_code=404, detail="Não foi possível geocodificar o endereço fornecido")
         lat, lon = coordenadas
 
-    # Se não temos nem endereço nem coordenadas, retornamos erro
     if not (lat is not None and lon is not None):
         raise HTTPException(status_code=400, detail="É necessário fornecer um endereço ou coordenadas (latitude/longitude)")
 
-    # Encontramos a UPA mais próxima
     upa_proxima = encontrar_upa_mais_proxima(lat, lon)
     if not upa_proxima:
         raise HTTPException(status_code=404, detail="Não foi possível encontrar uma UPA próxima")
@@ -99,51 +87,38 @@ def upas_proximas(
     endereco: str = Query(..., description="Endereço completo"),
     raio: float = Query(10.0, description="Raio de busca em km")
 ):
-    """
-    Encontra todas as UPAs em um determinado raio baseado no endereço fornecido
-    """
-    # Geocodifica o endereço
     coordenadas = transformar_endereco_para_cord(endereco)
     if not coordenadas:
         raise HTTPException(status_code=404, detail="Não foi possível geocodificar o endereço fornecido")
 
     lat, lon = coordenadas
 
-    # Função para calcular a distância entre dois pontos usando a fórmula de Haversine
     def calcular_distancia(lat1, lon1, lat2, lon2):
-        # Raio da Terra em km
         R = 6371.0
 
-        # Converte graus para radianos
         lat1_rad = math.radians(lat1)
         lon1_rad = math.radians(lon1)
         lat2_rad = math.radians(lat2)
         lon2_rad = math.radians(lon2)
 
-        # Diferença de coordenadas
         dlon = lon2_rad - lon1_rad
         dlat = lat2_rad - lat1_rad
 
-        # Fórmula de Haversine
         a = math.sin(dlat / 2)**2 + math.cos(lat1_rad) * math.cos(lat2_rad) * math.sin(dlon / 2)**2
         c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
         distancia = R * c
 
         return distancia
 
-    # Lista para armazenar UPAs dentro do raio especificado
     upas_no_raio = []
 
-    # Verificar cada UPA e encontrar as que estão dentro do raio
     for upa in UPAS_DF:
         dist = calcular_distancia(lat, lon, upa["lat"], upa["lon"])
         if dist <= raio:
-            # Criamos uma cópia da UPA para não modificar o original
             upa_com_distancia = dict(upa)
             upa_com_distancia["distancia"] = round(dist, 2)
             upas_no_raio.append(upa_com_distancia)
 
-    # Ordenamos do mais próximo ao mais distante
     upas_no_raio.sort(key=lambda x: x["distancia"])
 
     return upas_no_raio
